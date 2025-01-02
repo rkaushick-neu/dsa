@@ -22,6 +22,6 @@ This repository is for practicing data structures & algorithms for the INFO 6205
 5. Bucket Sort
 
 ## Leetcode Problems
-1. Leetcode75 1679: Max Number of K-Sum Pairs
+1. [Leetcode75 1679: Max Number of K-Sum Pairs](./leetcode75/1679_MaxNumberOfKSumPairs.py)
 2. Graphs: Leetcode 200(Java)
 3. Graphs (Python)
