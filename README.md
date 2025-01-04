@@ -2,6 +2,18 @@
 
 This repository is for practicing data structures & algorithms for the INFO 6205: Program Structures & Algorithms course.
 
+## Leetcode 75
+Follow my daily Leetcode 75 Journey in 2025:
+
+
+| Done   | Title                                                          | Topic          | Difficulty | Date        |
+|--------|----------------------------------------------------------------|----------------|------------|-------------|
+|  [x]   | [1679: Max Number of K-Sum Pairs](./leetcode75/1679_MaxNumberOfKSumPairs.py)                        | Two Pointers   | Easy       | Jan 2, 2025 |
+|  [x]   | [643: Maximum Average Sub-array I](./leetcode75/643_MaximumAverageSubarrayI.py)                              | Sliding Window | Easy       | Jan 3, 2025 |
+|  [x]   | [1456: Maximum Number of Vowels in a Substring of Given Length](./leetcode75/1456_MaximumNumberofVowelsinaSubstringofGivenLength.py)  | Sliding Window | Medium     | Jan 4, 2025 |
+|  [ ]   | 1004: Max Consecutive Ones III  | Sliding Window | Medium     | Tomorrow |
+
+
 ## Data Structures
 1. Arrays
 2. Linked Lists
@@ -21,9 +33,6 @@ This repository is for practicing data structures & algorithms for the INFO 6205
 4. Selection Sort
 5. Bucket Sort
 
-## Leetcode Problems
-1. [Leetcode75 1679: Max Number of K-Sum Pairs](./leetcode75/1679_MaxNumberOfKSumPairs.py)
-2. [Leetcode75 643: Maximum Average Sub-array I](./leetcode75/643_MaximumAverageSubarrayI.py)
-3. [Leetcode75 1456. Maximum Number of Vowels in a Substring of Given Length](./leetcode75/1456_MaximumNumberofVowelsinaSubstringofGivenLength.py)
-4. Graphs: Leetcode 200(Java)
-5. Graphs (Python)
+## More Leetcode Problems
+1. Graphs: Leetcode 200(Java)
+2. Graphs (Python)
