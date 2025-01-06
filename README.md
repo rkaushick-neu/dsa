@@ -6,12 +6,13 @@ This repository is for practicing data structures & algorithms for the INFO 6205
 Follow my daily Leetcode 75 Journey in 2025:
 
 
-| Done    | Title                                                          | Topic          | Difficulty | Date        |
+| Status   | Title                                                          | Topic          | Difficulty | Date        |
 |---------|----------------------------------------------------------------|----------------|------------|-------------|
 | &check; | [1679: Max Number of K-Sum Pairs](./leetcode75/1679_MaxNumberOfKSumPairs.py)                        | Two Pointers   | Easy       | Jan 2, 2025 |
 | &check; | [643: Maximum Average Sub-array I](./leetcode75/643_MaximumAverageSubarrayI.py)                              | Sliding Window | Easy       | Jan 3, 2025 |
 | &check; | [1456: Maximum Number of Vowels in a Substring of Given Length](./leetcode75/1456_MaximumNumberofVowelsinaSubstringofGivenLength.py)  | Sliding Window | Medium     | Jan 4, 2025 |
 | &check; | [1004: Max Consecutive Ones III](./leetcode75/1004_MaxConsecutiveOnesIII.py)  | Sliding Window | Medium     | Jan 5, 2025 |
+|  |  [1732: Find the Highest Altitude](./leetcode75/1732_FindtheHighestAltitude.py) | Prefix Sum | Easy     | Jan 6, 2025 |
 |  |  ?? | ?? | ??     | Tomorrow |
 
 
