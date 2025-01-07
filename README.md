@@ -12,8 +12,9 @@ Follow my daily Leetcode 75 Journey in 2025:
 | &check; | [643: Maximum Average Sub-array I](./leetcode75/643_MaximumAverageSubarrayI.py)                              | Sliding Window | Easy       | Jan 3, 2025 |
 | &check; | [1456: Maximum Number of Vowels in a Substring of Given Length](./leetcode75/1456_MaximumNumberofVowelsinaSubstringofGivenLength.py)  | Sliding Window | Medium     | Jan 4, 2025 |
 | &check; | [1004: Max Consecutive Ones III](./leetcode75/1004_MaxConsecutiveOnesIII.py)  | Sliding Window | Medium     | Jan 5, 2025 |
-| &check; | [1493. Longest Subarray of 1's After Deleting One Element](./leetcode75/1493_LongestSubarrayof1sAfterDeletingOneElement.py) | Sliding Window | Medium     | Jan 6, 2025 |
+| &check; | [1493: Longest Subarray of 1's After Deleting One Element](./leetcode75/1493_LongestSubarrayof1sAfterDeletingOneElement.py) | Sliding Window | Medium     | Jan 6, 2025 |
 | &check; |  [1732: Find the Highest Altitude](./leetcode75/1732_FindtheHighestAltitude.py) | Prefix Sum | Easy     | Jan 6, 2025 |
+| &check; |  [724: Find Pivot Index](./leetcode75/724_FindPivotIndex.py) | Prefix Sum | Easy     | Jan 7, 2025 |
 |  |  ?? | ?? | ??     | Tomorrow |
 
 
