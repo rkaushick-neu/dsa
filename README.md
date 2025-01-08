@@ -1,4 +1,4 @@
-# Rish's Data Structures & Algorithm Notes & Practice
+# Rishabh's Data Structures & Algorithm Notes & Practice
 
 This repository is for practicing data structures & algorithms for the INFO 6205: Program Structures & Algorithms course.
 
@@ -15,6 +15,7 @@ Follow my daily Leetcode 75 Journey in 2025:
 | &check; | [1493: Longest Subarray of 1's After Deleting One Element](./leetcode75/1493_LongestSubarrayof1sAfterDeletingOneElement.py) | Sliding Window | Medium     | Jan 6, 2025 |
 | &check; |  [1732: Find the Highest Altitude](./leetcode75/1732_FindtheHighestAltitude.py) | Prefix Sum | Easy     | Jan 6, 2025 |
 | &check; |  [724: Find Pivot Index](./leetcode75/724_FindPivotIndex.py) | Prefix Sum | Easy     | Jan 7, 2025 |
+| &check; | [1657. Determine if Two Strings Are Close](./leetcode75/1657_DetermineifTwoStringsAreClose.py) | Hashmap/ Set | Medium | Jan 8, 2025 |
 |  |  ?? | ?? | ??     | Tomorrow |
 
 
