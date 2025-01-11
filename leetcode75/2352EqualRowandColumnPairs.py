@@ -23,13 +23,18 @@ class Solution:
     def equalPairs(self, grid: list[list[int]]) -> int:
         n = len(grid)
         sum = 0
-        # column_grid = [[0]*n]*n # initializing the array like above results in issues
+
+        # initializing the array like above results in issues
+        # column_grid = [[0]*n]*n 
         
         # below reinitializing the column grid:
         column_grid = [[0]*n for _ in range(n)]
+
+        # finding the transpose:
         for r in range(0,n):
             for c in range(0,n):
                 column_grid[r][c] = grid[c][r]
+        
         hash_map = defaultdict(int)
         for row in grid:
             row_str = ''.join(str(row))
