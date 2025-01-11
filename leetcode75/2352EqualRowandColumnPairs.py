@@ -49,28 +49,28 @@ if __name__ == '__main__':
     grid = [[3,2,1],[1,7,6],[2,7,7]]
     print('\nTest Case #1')
     print(f'solution.equalPairs(grid={grid}) = {solution.equalPairs(grid=grid)}')
-    print('Expected Output: True')
+    print('Expected Output: 1')
 
     # Test Case #2
     # Inputs:
     grid = [[3,1,2,2],[1,4,4,5],[2,4,2,2],[2,4,2,2]]
     print('\nTest Case #2')
     print(f'solution.equalPairs(grid={grid}) = {solution.equalPairs(grid=grid)}')
-    print('Expected Output: False')
+    print('Expected Output: 3')
 
     # Test Case #3
     # Inputs:
     grid = [[13,13],[13,13]]
     print('\nTest Case #3')
     print(f'solution.equalPairs(grid={grid}) = {solution.equalPairs(grid=grid)}')
-    print('Expected Output: True')
+    print('Expected Output: 4')
 
     # Test Case #4
     # Inputs:
     grid = [[3,3,3,6,18,3,3,3,3,3],[3,3,3,3,1,3,3,3,3,3],[3,3,3,3,1,3,3,3,3,3],[3,3,3,3,1,3,3,3,3,3],[1,1,1,11,19,1,1,1,1,1],[3,3,3,18,19,3,3,3,3,3],[3,3,3,3,1,3,3,3,3,3],[3,3,3,3,1,3,3,3,3,3],[3,3,3,1,6,3,3,3,3,3],[3,3,3,3,1,3,3,3,3,3]]
     print('\nTest Case #4')
     print(f'solution.equalPairs(grid={grid}) = {solution.equalPairs(grid=grid)}')
-    print('Expected Output: False')
+    print('Expected Output: 48')
 
     print("\nLeetCode Runtime: 82ms")
     print("LeetCode Beats: 35.51%")
