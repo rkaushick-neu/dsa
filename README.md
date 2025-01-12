@@ -18,6 +18,7 @@ Follow my daily Leetcode 75 Journey in 2025:
 | &check; | [1657. Determine if Two Strings Are Close](./leetcode75/1657_DetermineifTwoStringsAreClose.py) | Hashmap/ Set | Medium | Jan 8, 2025 |
 | &check; | [374. Guess Number Higher or Lower](./leetcode75/374_GuessNumberHigherorLower.py) | Binary Search | Easy | Jan 9, 2025 |
 | &check; | [2352. Equal Row and Column Pairs](./leetcode75/2352EqualRowandColumnPairs.py) | Hashmap/ Set | Medium     | Jan 10, 2025 |
+|  |  338. Counting Bits | Bit Manipulation | Easy     | Jan 11, 2025 |
 |  |  ?? | ?? | ??     | Tomorrow |
 
 
