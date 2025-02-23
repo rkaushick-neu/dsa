@@ -21,6 +21,7 @@ Follow my daily Leetcode 75 Journey in 2025:
 | &check; | [735. Asteroid Collision](./leetcode75/735_AsteroidCollision.py) | Stack | Medium | Jan 11, 2025 |
 | &check; |  [394. Decode String](./leetcode75/394_Decode%20String.py) | Stack | Medium     | Feb 20, 2025 |
 | &check; |  [649. Dota2 Senate](./leetcode75/649_Dota2Senate.py) | Queue | Medium     | Feb 21, 2025 |
+| &check; |  [328. Odd Even Linked List](./leetcode75/328_OddEvenLinkedList.py) | Linked Lists | Medium | Feb 23, 2025 |
 |  |  ?? | ?? | ??     | Tomorrow |
 
 ## Data Structures
