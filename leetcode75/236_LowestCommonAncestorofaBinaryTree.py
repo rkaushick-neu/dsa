@@ -82,7 +82,7 @@ if __name__ == '__main__':
     head = TreeNode.buildTree(nodes)
     lca = solution.lowestCommonAncestor(head, p=p, q=q)
     print('\nTest Case #1')
-    print(f'solution.lowestCommonAncestor({nodes}, p={p}, q={q}) = '), print(lca)
+    print(f'solution.lowestCommonAncestor({nodes}, p={p}, q={q}) = {solution.lowestCommonAncestor(head, p=p, q=q)}')
     print(f'Expected Output: 3')
 
     # Test Case #2
