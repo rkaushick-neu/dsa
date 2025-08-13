@@ -6,10 +6,10 @@ This repository is for practicing data structures & algorithms for the INFO 6205
 Follow my daily Leetcode 75 Journey in 2025:
 
 
-| Status   | Title                                                          | Topic          | Difficulty | Date        |
+| Status  | Title                                                          | Topic          | Difficulty | Date        |
 |---------|----------------------------------------------------------------|----------------|------------|-------------|
-| &check; | [1679: Max Number of K-Sum Pairs](./leetcode/1679_MaxNumberOfKSumPairs.py)                        | Two Pointers   | Easy       | Jan 2, 2025 |
-| &check; | [643: Maximum Average Sub-array I](./leetcode/643_MaximumAverageSubarrayI.py)                              | Sliding Window | Easy       | Jan 3, 2025 |
+| &check; | [1679: Max Number of K-Sum Pairs](./leetcode/1679_MaxNumberOfKSumPairs.py) | Two Pointers   | Easy | Jan 2, 2025 |
+| &check; | [643: Maximum Average Sub-array I](./leetcode/643_MaximumAverageSubarrayI.py) | Sliding Window | Easy | Jan 3, 2025 |
 | &check; | [1456: Maximum Number of Vowels in a Substring of Given Length](./leetcode/1456_MaximumNumberofVowelsinaSubstringofGivenLength.py)  | Sliding Window | Medium     | Jan 4, 2025 |
 | &check; | [1004: Max Consecutive Ones III](./leetcode/1004_MaxConsecutiveOnesIII.py)  | Sliding Window | Medium     | Jan 5, 2025 |
 | &check; | [1493: Longest Subarray of 1's After Deleting One Element](./leetcode/1493_LongestSubarrayof1sAfterDeletingOneElement.py) | Sliding Window | Medium     | Jan 6, 2025 |
@@ -19,14 +19,14 @@ Follow my daily Leetcode 75 Journey in 2025:
 | &check; | [374. Guess Number Higher or Lower](./leetcode/374_GuessNumberHigherorLower.py) | Binary Search | Easy | Jan 9, 2025 |
 | &check; | [2352. Equal Row and Column Pairs](./leetcode/2352EqualRowandColumnPairs.py) | Hashmap/ Set | Medium     | Jan 10, 2025 |
 | &check; | [735. Asteroid Collision](./leetcode/735_AsteroidCollision.py) | Stack | Medium | Jan 11, 2025 |
-| &check; |  [394. Decode String](./leetcode/394_Decode%20String.py) | Stack | Medium     | Feb 20, 2025 |
-| &check; |  [649. Dota2 Senate](./leetcode/649_Dota2Senate.py) | Queue | Medium     | Feb 21, 2025 |
-| &check; |  [328. Odd Even Linked List](./leetcode/328_OddEvenLinkedList.py) | Linked Lists | Medium | Feb 23, 2025 |
+| &check; | [394. Decode String](./leetcode/394_Decode%20String.py) | Stack | Medium     | Feb 20, 2025 |
+| &check; | [649. Dota2 Senate](./leetcode/649_Dota2Senate.py) | Queue | Medium     | Feb 21, 2025 |
+| &check; | [328. Odd Even Linked List](./leetcode/328_OddEvenLinkedList.py) | Linked Lists | Medium | Feb 23, 2025 |
 | &check; | [2130. Maximum Twin Sum of a Linked List](./leetcode/2130_MaximumTwinSumofaLinkedList.py) | Linked Lists | Medium | Feb 24, 2025 |
 | &check; | [437. Path Sum III](./leetcode/437_Path_Sum_III.py) | Binray Tree (DFS, Prefix Sum) | Medium | Feb 26, 2025 |
 | &check; | [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372_LongestZigZagPathinaBinaryTree.py) |  Binray Tree (DFS) | Medium | Mar 7, 2025 |
-| &check; |  [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236_LowestCommonAncestorofaBinaryTree.py) | Binray Tree (DFS) | Medium | Mar 8, 2025 |
-| &check; |  36. Valid Sudoku (Coming soon) | Arrays | Medium | Aug 8, 2025 |
+| &check; | [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236_LowestCommonAncestorofaBinaryTree.py) | Binray Tree (DFS) | Medium | Mar 8, 2025 |
+| &check; | [36. Valid Sudoku](./leetcode/36_ValidSudoku.py) | Arrays | Medium | Aug 8, 2025 |
 | &check; | [125. Valid Palindrome](./leetcode/125_ValidPalindrome.py) | Two Pointers | Easy | Aug 12, 2025 |
 | &check; |  [167. Two Sum II - Input Array Is Sorted](./leetcode/167_TwoSumII-InputArrayIsSorted.py) | Two Pointers | Medium | Aug 12, 2025 |
 |  |  ?? | ?? | ?? | Tomorrow |
