@@ -28,6 +28,7 @@ Follow my daily Leetcode 75 Journey in 2025:
 | &check; |  [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236_LowestCommonAncestorofaBinaryTree.py) | Binray Tree (DFS) | Medium | Mar 8, 2025 |
 | &check; |  36. Valid Sudoku (Coming soon) | Arrays | Medium | Aug 8, 2025 |
 | &check; | [125. Valid Palindrome](./leetcode/125_ValidPalindrome.py) | Two Pointers | Easy | Aug 12, 2025 |
+| &check; |  [167. Two Sum II - Input Array Is Sorted](./leetcode/167_TwoSumII-InputArrayIsSorted.py) | Two Pointers | Medium | Aug 12, 2025 |
 |  |  ?? | ?? | ?? | Tomorrow |
 
 ## Data Structures
