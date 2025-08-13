@@ -29,6 +29,7 @@ Follow my daily Leetcode 75 Journey in 2025:
 | &check; | [36. Valid Sudoku](./leetcode/36_ValidSudoku.py) | Arrays | Medium | Aug 8, 2025 |
 | &check; | [125. Valid Palindrome](./leetcode/125_ValidPalindrome.py) | Two Pointers | Easy | Aug 12, 2025 |
 | &check; |  [167. Two Sum II - Input Array Is Sorted](./leetcode/167_TwoSumII-InputArrayIsSorted.py) | Two Pointers | Medium | Aug 12, 2025 |
+| &check; | [155. Min Stack](./leetcode/155_MinStack.py) | Stack | Medium | Aug 13, 2025 |
 |  |  ?? | ?? | ?? | Tomorrow |
 
 ## Data Structures
