@@ -2,8 +2,8 @@
 
 This repository is for practicing data structures & algorithms for the INFO 6205: Program Structures & Algorithms course.
 
-## Leetcode 75
-Follow my daily Leetcode 75 Journey in 2025:
+## Leetcode
+Follow my Leetcode Journey in 2025:
 
 
 | Status  | Title                                                          | Topic          | Difficulty | Date        |
@@ -32,6 +32,9 @@ Follow my daily Leetcode 75 Journey in 2025:
 | &check; | [155. Min Stack](./leetcode/155_MinStack.py) | Stack | Medium | Aug 13, 2025 |
 | &check; |  [150. Evaluate Reverse Polish Notation](./leetcode/150_EvaluateReversePolishNotation.py) | Stack | Medium | Aug 13, 2025 |
 | &check; | [15. 3Sum](./leetcode/15_3Sum.py) | Two Pointers | Medium | Aug 18, 2025 |
+| &check; |  [875. Koko Eating Bananas](./leetcode/875_KokoEatingBananas.py) | Binary Search | Medium | Aug 26, 2025 |
+| &check; |  [153. Find Minimum in Rotated Sorted Array](./leetcode/153_FindMinimuminRotatedSortedArray.py) | Binary Search | Medium | Sep 8, 2025 |
+| &check; | [121. Best Time to Buy and Sell Stock](./leetcode/121_BestTimetoBuyandSellStock.py) | Sliding Window | Easy | Sep 8, 2025 |
 |  |  ?? | ?? | ?? | Tomorrow |
 
 ## Data Structures
