@@ -23,9 +23,9 @@ Follow my Leetcode Journey in 2025:
 | &check; | [649. Dota2 Senate](./leetcode/649_Dota2Senate.py) | Queue | Medium     | Feb 21, 2025 |
 | &check; | [328. Odd Even Linked List](./leetcode/328_OddEvenLinkedList.py) | Linked Lists | Medium | Feb 23, 2025 |
 | &check; | [2130. Maximum Twin Sum of a Linked List](./leetcode/2130_MaximumTwinSumofaLinkedList.py) | Linked Lists | Medium | Feb 24, 2025 |
-| &check; | [437. Path Sum III](./leetcode/437_Path_Sum_III.py) | Binray Tree (DFS, Prefix Sum) | Medium | Feb 26, 2025 |
-| &check; | [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372_LongestZigZagPathinaBinaryTree.py) |  Binray Tree (DFS) | Medium | Mar 7, 2025 |
-| &check; | [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236_LowestCommonAncestorofaBinaryTree.py) | Binray Tree (DFS) | Medium | Mar 8, 2025 |
+| &check; | [437. Path Sum III](./leetcode/437_Path_Sum_III.py) | Binary Tree (DFS, Prefix Sum) | Medium | Feb 26, 2025 |
+| &check; | [1372. Longest ZigZag Path in a Binary Tree](./leetcode/1372_LongestZigZagPathinaBinaryTree.py) |  Binary Tree (DFS) | Medium | Mar 7, 2025 |
+| &check; | [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236_LowestCommonAncestorofaBinaryTree.py) | Binary Tree (DFS) | Medium | Mar 8, 2025 |
 | &check; | [36. Valid Sudoku](./leetcode/36_ValidSudoku.py) | Arrays | Medium | Aug 8, 2025 |
 | &check; | [125. Valid Palindrome](./leetcode/125_ValidPalindrome.py) | Two Pointers | Easy | Aug 12, 2025 |
 | &check; |  [167. Two Sum II - Input Array Is Sorted](./leetcode/167_TwoSumII-InputArrayIsSorted.py) | Two Pointers | Medium | Aug 12, 2025 |
@@ -35,6 +35,7 @@ Follow my Leetcode Journey in 2025:
 | &check; |  [875. Koko Eating Bananas](./leetcode/875_KokoEatingBananas.py) | Binary Search | Medium | Aug 26, 2025 |
 | &check; |  [153. Find Minimum in Rotated Sorted Array](./leetcode/153_FindMinimuminRotatedSortedArray.py) | Binary Search | Medium | Sep 8, 2025 |
 | &check; | [121. Best Time to Buy and Sell Stock](./leetcode/121_BestTimetoBuyandSellStock.py) | Sliding Window | Easy | Sep 8, 2025 |
+| &check; | [206. Reverse Linked List](./leetcode/206_ReverseLinkedList.py) | Linked Lists | Easy | Sep 10, 2025 |
 |  |  ?? | ?? | ?? | Tomorrow |
 
 ## Data Structures
