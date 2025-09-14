@@ -28,16 +28,17 @@ Follow my Leetcode Journey in 2025:
 | 18    | &check; | [236. Lowest Common Ancestor of a Binary Tree](./leetcode/236_LowestCommonAncestorofaBinaryTree.py) | Binary Tree (DFS) | Medium | Mar 8, 2025 |
 | 19    | &check; | [36. Valid Sudoku](./leetcode/36_ValidSudoku.py) | Arrays | Medium | Aug 8, 2025 |
 | 20    | &check; | [125. Valid Palindrome](./leetcode/125_ValidPalindrome.py) | Two Pointers | Easy | Aug 12, 2025 |
-| 21    | &check; |  [167. Two Sum II - Input Array Is Sorted](./leetcode/167_TwoSumII-InputArrayIsSorted.py) | Two Pointers | Medium | Aug 12, 2025 |
+| 21    | &check; | [167. Two Sum II - Input Array Is Sorted](./leetcode/167_TwoSumII-InputArrayIsSorted.py) | Two Pointers | Medium | Aug 12, 2025 |
 | 22    | &check; | [155. Min Stack](./leetcode/155_MinStack.py) | Stack | Medium | Aug 13, 2025 |
-| 23    | &check; |  [150. Evaluate Reverse Polish Notation](./leetcode/150_EvaluateReversePolishNotation.py) | Stack | Medium | Aug 13, 2025 |
+| 23    | &check; | [150. Evaluate Reverse Polish Notation](./leetcode/150_EvaluateReversePolishNotation.py) | Stack | Medium | Aug 13, 2025 |
 | 24    | &check; | [15. 3Sum](./leetcode/15_3Sum.py) | Two Pointers | Medium | Aug 18, 2025 |
-| 25    | &check; |  [875. Koko Eating Bananas](./leetcode/875_KokoEatingBananas.py) | Binary Search | Medium | Aug 26, 2025 |
-| 26    | &check; |  [153. Find Minimum in Rotated Sorted Array](./leetcode/153_FindMinimuminRotatedSortedArray.py) | Binary Search | Medium | Sep 8, 2025 |
+| 25    | &check; | [875. Koko Eating Bananas](./leetcode/875_KokoEatingBananas.py) | Binary Search | Medium | Aug 26, 2025 |
+| 26    | &check; | [153. Find Minimum in Rotated Sorted Array](./leetcode/153_FindMinimuminRotatedSortedArray.py) | Binary Search | Medium | Sep 8, 2025 |
 | 27    | &check; | [121. Best Time to Buy and Sell Stock](./leetcode/121_BestTimetoBuyandSellStock.py) | Sliding Window | Easy | Sep 8, 2025 |
 | 28    | &check; | [206. Reverse Linked List](./leetcode/206_ReverseLinkedList.py) | Linked Lists | Easy | Sep 10, 2025 |
-| 29    | &check; |  [3. Longest Substring Without Repeating Characters](./leetcode/3_LongestSubstringWithoutRepeatingCharacters.py) | Sliding Window | Medium | Sep 13, 2025 |
-| 30    |  |  ?? | ?? | ?? | Tomorrow |
+| 29    | &check; | [3. Longest Substring Without Repeating Characters](./leetcode/3_LongestSubstringWithoutRepeatingCharacters.py) | Sliding Window | Medium | Sep 13, 2025 |
+| 30    | &check; | [21. Merge Two Sorted Lists](./leetcode/21_MergeTwoSortedLists.py) | Linked Lists | Easy | Sep 14, 2025 |
+| 31    |  |  ?? | ?? | ?? | Tomorrow |
 
 ## Data Structures
 1. Arrays
