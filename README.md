@@ -38,7 +38,8 @@ Follow my Leetcode Journey in 2025:
 | 28    | &check; | [206. Reverse Linked List](./leetcode/206_ReverseLinkedList.py) | Linked Lists | Easy | Sep 10, 2025 |
 | 29    | &check; | [3. Longest Substring Without Repeating Characters](./leetcode/3_LongestSubstringWithoutRepeatingCharacters.py) | Sliding Window | Medium | Sep 13, 2025 |
 | 30    | &check; | [21. Merge Two Sorted Lists](./leetcode/21_MergeTwoSortedLists.py) | Linked Lists | Easy | Sep 14, 2025 |
-| 31    |  |  ?? | ?? | ?? | Tomorrow |
+| 31    | &check; | [11. Container With Most Water](./leetcode/11_ContainerWithMostWater.py) | Two Pointers | Medium | Sep 14, 2025 |
+| 32    |  |  ?? | ?? | ?? | Tomorrow |
 
 ## Data Structures
 1. Arrays
