@@ -40,7 +40,8 @@ Follow my Leetcode Journey in 2025:
 | 30    | &check; | [21. Merge Two Sorted Lists](./leetcode/21_MergeTwoSortedLists.py) | Linked Lists | Easy | Sep 14, 2025 |
 | 31    | &check; | [11. Container With Most Water](./leetcode/11_ContainerWithMostWater.py) | Two Pointers | Medium | Sep 14, 2025 |
 | 32    | &check; | [128. Longest Consecutive Sequence](./leetcode/128_LongestConsecutiveSequence.py) | Arrays | Medium | Sep 15, 2025 |
-| 33    |  |  ?? | ?? | ?? | Tomorrow |
+| 33    | &check; | [42. Trapping Rain Water](./leetcode/42_TrappingRainWater.py) | Two Pointers | Hard | Sep 21, 2025 |
+| 34    |  |  ?? | ?? | ?? | Tomorrow |
 
 ## Data Structures
 1. Arrays
