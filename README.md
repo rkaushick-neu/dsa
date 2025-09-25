@@ -42,7 +42,8 @@ Follow my Leetcode Journey in 2025:
 | 32    | &check; | [128. Longest Consecutive Sequence](./leetcode/128_LongestConsecutiveSequence.py) | Arrays | Medium | Sep 15, 2025 |
 | 33    | &check; | [42. Trapping Rain Water](./leetcode/42_TrappingRainWater.py) | Two Pointers | Hard | Sep 21, 2025 |
 | 34    | &check; | [22. Generate Parentheses](./leetcode/22_GenerateParentheses.py) | Stack | Medium | Sep 24, 2025 |
-| 35    |  |  ?? | ?? | ?? | Tomorrow |
+| 35    | &check; |  [739. Daily Temperatures](./leetcode/739_DailyTemperatures.py) | Stack | Medium | Sep 25, 2025 |
+| 36    |  |  ?? | ?? | ?? | Tomorrow |
 
 ## Data Structures
 1. Arrays
