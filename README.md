@@ -57,6 +57,9 @@ Follow my Leetcode Journey in 2025:
      - Traversal - in-order, pre-order & post-order
 4. Graphs
 
+## Algorithms
+1. [Binary Search (Leetcode)](./leetcode/704_BinarySearch.py)
+
 ## Sorting
 1. Insertion Sort
 2. Merge Sort
